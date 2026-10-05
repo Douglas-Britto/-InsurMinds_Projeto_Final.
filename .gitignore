@@ -1,0 +1,5 @@
+# Bloquear banco de dados e ambientes virtuais
+*.db
+venv/
+.streamlit/
+__pycache__/
