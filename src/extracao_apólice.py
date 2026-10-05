@@ -8,7 +8,7 @@ from google.genai import types
 
 # Comentário: Inicializa o cliente do Gemini.
 # SUBSTITUA 'SUA_CHAVE_AQUI' pela chave real copiada do site do Google AI Studio.
-client = genai.Client(api_key="AQ.Ab8RN6LKqg1EDvaSD0f9wmxBmh1gPVjT5y_eC4ADkNs3vKzICw")
+client = genai.Client(api_key="")
 
 # ==============================================================================
 # BLOCO 2: FUNÇÃO MESTRE MULTIMODAL DE EXTRAÇÃO E FORMATAÇÃO JSON
