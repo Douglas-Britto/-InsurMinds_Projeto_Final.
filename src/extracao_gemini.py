@@ -10,7 +10,7 @@ from banco_dados import inicializar_banco, salvar_apolice_no_banco
 
 # Comentário: Inicializa o cliente do Gemini usando a nova biblioteca SDK oficial.
 # SUBSTITUA 'SUA_CHAVE_AQUI' pela chave real copiada do site do Google AI Studio.
-client = genai.Client(api_key="AQ.Ab8RN6LKqg1EDvaSD0f9wmxBmh1gPVjT5y_eC4ADkNs3vKzICw")
+client = genai.Client(api_key=xBm
 
 # ==============================================================================
 # BLOCO 2: FUNÇÃO MESTRE MULTIMODAL COM LÓGICA ANTI-ERRO 503 (RETRY LOGIC)
