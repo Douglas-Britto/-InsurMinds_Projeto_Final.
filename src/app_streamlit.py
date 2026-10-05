@@ -18,7 +18,7 @@ st.set_page_config(
 )
 
 # Inicializa o cliente do Gemini usando a nova biblioteca SDK oficial da Google.
-client = genai.Client(api_key="AQ.Ab8RN6LKqg1EDvaSD0f9wmxBmh1gPVjT5y_eC4ADkNs3vKzICw")
+client = genai.Client(api_key="")
 
 # ==============================================================================
 # BLOCO 3: ACESSO À CAMADA DE DADOS DO BANCO (ETAPA 5)
